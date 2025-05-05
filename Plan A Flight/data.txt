@@ -1,0 +1,13 @@
+12
+Dallas|Austin|98|47
+Austin|Houston|95|39
+Dallas|Houston|101|51
+Austin|Chicago|144|192
+Delaware|Chicago|120|65
+Chicago|New York|145|130
+New York|Dallas|53|120
+Austin|Delaware|140|220
+Denver|Milwaukee|120|221
+Cancun|Dallas|340|240
+Cancun|New York|220|750
+Houston|Paris|560|230

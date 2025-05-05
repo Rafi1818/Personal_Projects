@@ -1,0 +1,20 @@
+Flight 1: Cancun, New York  (Time)
+Path 1: Cancun -> Dallas -> New York. Time: 360 Cost: 393.00
+Path 2: Cancun -> Dallas -> Austin -> Chicago -> New York. Time: 609 Cost: 727.00
+Path 3: Cancun -> Dallas -> Houston -> Austin -> Chicago -> New York. Time: 652 Cost: 825.00
+
+Flight 2: Cancun, Austin  (Cost)
+Path 1: Cancun -> New York -> Dallas -> Austin. Time: 917 Cost: 371.00
+Path 2: Cancun -> Dallas -> Austin. Time: 287 Cost: 438.00
+Path 3: Cancun -> New York -> Dallas -> Houston -> Austin. Time: 960 Cost: 469.00
+
+Flight 3: Cancun, Paris  (Time)
+Path 1: Cancun -> Dallas -> Houston -> Paris. Time: 521 Cost: 1001.00
+Path 2: Cancun -> Dallas -> Austin -> Houston -> Paris. Time: 556 Cost: 1093.00
+Path 3: Cancun -> Dallas -> New York -> Chicago -> Austin -> Houston -> Paris. Time: 951 Cost: 1337.00
+
+Flight 4: Paris, Dallas  (Time)
+Path 1: Paris -> Houston -> Dallas. Time: 281 Cost: 661.00
+Path 2: Paris -> Houston -> Austin -> Dallas. Time: 316 Cost: 753.00
+Path 3: Paris -> Houston -> Austin -> Chicago -> New York -> Dallas. Time: 711 Cost: 997.00
+
